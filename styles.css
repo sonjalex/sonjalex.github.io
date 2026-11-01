@@ -77,20 +77,6 @@ ul li a:hover {
     font-size: 60px;
 }
 
-.y {
-    padding-left: 40px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    text-align: left;
-    font-size: 50px;
-}
-
-.z {
-    padding-left: 40px;
-    text-align: left;
-    font-size: 30px;
-}
-
 .t {
     padding-top: 20px;
     padding-left: 20px;
@@ -106,7 +92,6 @@ ul li a:hover {
     width: 100%;
     max-width: 1000px;
     height: auto;
-    text-align: center;
 }
 
 .b {
@@ -163,3 +148,30 @@ ul li a:hover {
     color: white;
 }
 
+.kartta {
+    padding-left: 500px;
+    width: 1000px;
+    height: auto;
+}
+
+.y {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 50px;
+}
+
+.z {
+    text-align: left;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tiedot {
+    display: flex;
+    align-items: flex-start;
+    padding-left: 20px;
+    gap: 40px;
+}
