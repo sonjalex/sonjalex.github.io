@@ -100,7 +100,7 @@ ul li a:hover {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    max-width: 1000px;
+    max-width: 00px;
     height: auto;
     text-align: center;
 }
@@ -149,8 +149,12 @@ ul li a:hover {
 }
 
 .kartta {
-    padding-left: 500px;
-    width: 1000px;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 1000px;
     height: auto;
 }
 
