@@ -2,7 +2,8 @@
 
 //1. Korjaa linkki JavaScriptillä: 
 // Koira-linkin pitää viedä oikealle Wikipedia-sivulle.
-
+const linkki = document.querySelector("koiralinkki");
+linkki.href = "https://fi.wikipedia.org/wiki/Koira";
 
 
 //2. Tässä yritetään lisätä kissalistaan uusi elementti.
@@ -11,15 +12,16 @@
 const ol = document.querySelector('ol');
 const kissalisays = document.createElement('li');
 kissalisays.innerText = 'Kissat pärjäävät mainiosti yksinäänkin.';
+ol.append(kissalisays);
 
 
 //3. Tässä yritetään lisätä koiralistaan uusi elementti. 
 // Korjaa toimivaksi.
 
-const ul = document.getElementsByTagName('ul');
+const ul = document.getElementsByTagName('ul')[0]; // Jotta saadaan vain ensimmäinen
 const koiralisays = document.createElement('li');
 koiralisays.innerText = "Monet koirat palvovat omistajaansa.";
-ul.push(koiralisays);
+ul.appendChild(koiralisays);
 
 
 //Event-esimerkki, sama kuin materiaalissa. Toimiiko?
