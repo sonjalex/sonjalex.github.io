@@ -12,7 +12,7 @@ linkki.href = "https://fi.wikipedia.org/wiki/Koira";
 const ol = document.querySelector('ol');
 const kissalisays = document.createElement('li');
 kissalisays.innerText = 'Kissat pärjäävät mainiosti yksinäänkin.';
-ol.append(kissalisays);
+ol.appendChild(kissalisays);
 
 
 //3. Tässä yritetään lisätä koiralistaan uusi elementti. 

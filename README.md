@@ -13,7 +13,19 @@ Tehdyt tehtävät:
 - Tehtävä 1: 1p
 - Tehtävä 2: 2p
 - Tehtävä 3: 3p
+- Tehtävä 4: 3p
+- Tehtävä 5: 3p
+- Tehtävä 7: 2p
+- Tehtävä 9: 2p
 
-**Yhteensä 6p**
+**Yhteensä 16p**
 
 ### JS-moduuli 3
+
+- Tehtävä 1: 2p
+- Tehtävä 2: 2p
+- Tehtävä 3: 2p
+- Tehtävä 4: 2p
+- Tehtävä 5: 2p
+
+**Yhteensä 10p**
