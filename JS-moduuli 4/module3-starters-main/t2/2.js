@@ -9,5 +9,3 @@ li2.innerHTML = "Second item";
 const li3 = document.createElement("li");
 document.body.appendChild(li3);
 li3.innerHTML = "Third item";
-
-abc

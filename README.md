@@ -34,6 +34,7 @@ Tehdyt tehtävät:
 
 - Tehtävä 1: 2p
 - Tehtävä 2: 2p
-- Tehtävä
+- Tehtävä 7: 2p
+- Tehtävä 9: 4p
 
-**Yhteensä 4p**
+**Yhteensä 10p**
