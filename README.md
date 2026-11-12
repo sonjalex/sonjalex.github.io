@@ -29,3 +29,11 @@ Tehdyt tehtävät:
 - Tehtävä 5: 2p
 
 **Yhteensä 10p**
+
+### JS-moduuli 4
+
+- Tehtävä 1: 2p
+- Tehtävä 2: 2p
+- Tehtävä
+
+**Yhteensä 4p**
