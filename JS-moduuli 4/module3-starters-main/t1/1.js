@@ -1,0 +1,1 @@
+document.getElementById("target").setAttribute("class", "my-list");
