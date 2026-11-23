@@ -43,4 +43,9 @@ Vastaavat js-tiedostot on nimetty samalla th käytännöllä.
 
 Vastaavat js- ja css-tiedostot on nimetty samalla numerokäytännöllä.
 
+### Python Flask -palvelin
+
+- [Tehtävä 1](https://sonjalex.github.io/moduulit/PythonFlask_Palvelin/th1.py) : 4p
+- [Tehtävä 3 (ohjelmointitehtävissä nimetty myös 1)](https://sonjalex.github.io/moduulit/PythonFlask_Palvelin/th1.py) : 6p
+
 **Yhteensä 10p**
